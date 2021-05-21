@@ -1,0 +1,8 @@
+/* ./resources/css/app.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.form-input {
+    @apply border border-gray-300 rounded-md;
+}
