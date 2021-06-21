@@ -5,7 +5,7 @@
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
-        "php": "^7.3|^8.0",
+        "php": "^8.0",
         "archtechx/airwire": "dev-master",
         "blade-ui-kit/blade-heroicons": "^1.2",
         "fideloper/proxy": "^4.4",
@@ -59,15 +59,6 @@
         "preferred-install": "dist",
         "sort-packages": true
     },
-    "repositories": [
-        {
-            "type": "path",
-            "url": "/Users/samuel/Projects/airwire",
-            "options": {
-                "symlink": false
-            }
-        }
-    ],
     "minimum-stability": "dev",
     "prefer-stable": true
 }
